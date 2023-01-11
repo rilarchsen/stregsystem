@@ -1,0 +1,4 @@
+Date: 11-01-2023 19:16:35 Purchase: ID: 1 Username: fl Amount: 24kr Product ID: 1
+Date: 11-01-2023 19:19:49 Purchase: ID: 1 Username: fl Amount: 24kr Product ID: 1
+Date: 11-01-2023 19:20:01 Purchase: ID: 1 Username: fl Amount: 24kr Product ID: 1
+Date: 11-01-2023 19:21:02 Purchase: ID: 1 Username: fl Amount: 24kr Product ID: 1

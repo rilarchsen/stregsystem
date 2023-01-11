@@ -1,0 +1,15 @@
+C:\Users\rilar\Documents\GitHub\stregsystem\Stregsystem\Stregsystem\bin\Debug\net7.0\Stregsystem.exe
+C:\Users\rilar\Documents\GitHub\stregsystem\Stregsystem\Stregsystem\bin\Debug\net7.0\Stregsystem.deps.json
+C:\Users\rilar\Documents\GitHub\stregsystem\Stregsystem\Stregsystem\bin\Debug\net7.0\Stregsystem.runtimeconfig.json
+C:\Users\rilar\Documents\GitHub\stregsystem\Stregsystem\Stregsystem\bin\Debug\net7.0\Stregsystem.dll
+C:\Users\rilar\Documents\GitHub\stregsystem\Stregsystem\Stregsystem\bin\Debug\net7.0\Stregsystem.pdb
+C:\Users\rilar\Documents\GitHub\stregsystem\Stregsystem\Stregsystem\obj\Debug\net7.0\Stregsystem.csproj.AssemblyReference.cache
+C:\Users\rilar\Documents\GitHub\stregsystem\Stregsystem\Stregsystem\obj\Debug\net7.0\Stregsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rilar\Documents\GitHub\stregsystem\Stregsystem\Stregsystem\obj\Debug\net7.0\Stregsystem.AssemblyInfoInputs.cache
+C:\Users\rilar\Documents\GitHub\stregsystem\Stregsystem\Stregsystem\obj\Debug\net7.0\Stregsystem.AssemblyInfo.cs
+C:\Users\rilar\Documents\GitHub\stregsystem\Stregsystem\Stregsystem\obj\Debug\net7.0\Stregsystem.csproj.CoreCompileInputs.cache
+C:\Users\rilar\Documents\GitHub\stregsystem\Stregsystem\Stregsystem\obj\Debug\net7.0\Stregsystem.dll
+C:\Users\rilar\Documents\GitHub\stregsystem\Stregsystem\Stregsystem\obj\Debug\net7.0\refint\Stregsystem.dll
+C:\Users\rilar\Documents\GitHub\stregsystem\Stregsystem\Stregsystem\obj\Debug\net7.0\Stregsystem.pdb
+C:\Users\rilar\Documents\GitHub\stregsystem\Stregsystem\Stregsystem\obj\Debug\net7.0\Stregsystem.genruntimeconfig.cache
+C:\Users\rilar\Documents\GitHub\stregsystem\Stregsystem\Stregsystem\obj\Debug\net7.0\ref\Stregsystem.dll

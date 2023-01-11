@@ -1,16 +1,16 @@
-﻿namespace Stregsystem.Models;
+﻿using Stregsystem.Interfaces;
+
+namespace Stregsystem.Models;
 
 public class InsertCashTransaction : Transaction
 {
-    public InsertCashTransaction(int id, User user, DateTime date, double amount) : base(id, user, date, amount)
+    public InsertCashTransaction(int id, User user, DateTime date, double amount, ILogger<Transaction> logger) : base(id, user, date, amount, logger)
     {
     }
 
-    public override void Execute()
+    public void Execute()
     {
-        User.Balance += Amount;
-
-        //log transaction
+        base.Execute(BalanceOperator.Add);
     }
 
     public override string ToString() => $"Cash insert: {base.ToString()}";
