@@ -5,10 +5,10 @@ namespace Stregsystem.Models;
 
 public class User : IComparable<User>
 {
-    public int Id { get; set; }
+    public int Id { get; }
     public string FirstName { get; set; }
     public string LastName { get; set; }
-    public string Username { get; set; }
+    public string Username { get; private set; }
     public string Email { get; set; }
     public double Balance { get; set; }
 
