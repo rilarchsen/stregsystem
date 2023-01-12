@@ -4,17 +4,14 @@ namespace Stregsystem.Exceptions;
 
 public class InsufficientCreditsException : Exception
 {
-    public User User { get; }
-    public Product Product { get; }
-    public InsufficientCreditsException(User user, Product product) : base()
+    public BuyTransaction Transaction { get; }
+    public InsufficientCreditsException(BuyTransaction transaction) : base()
     {
-        User = user;
-        Product = product;
+        Transaction = transaction;
     }
 
-    public InsufficientCreditsException(User user, Product product, string? message) : base(message)
+    public InsufficientCreditsException(BuyTransaction transaction, string? message) : base(message)
     {
-        User = user;
-        Product = product;
+        Transaction = transaction;
     }
 }

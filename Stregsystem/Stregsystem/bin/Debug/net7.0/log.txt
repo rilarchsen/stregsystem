@@ -1,4 +1,23 @@
-Date: 11-01-2023 19:16:35 Purchase: ID: 1 Username: fl Amount: 24kr Product ID: 1
-Date: 11-01-2023 19:19:49 Purchase: ID: 1 Username: fl Amount: 24kr Product ID: 1
-Date: 11-01-2023 19:20:01 Purchase: ID: 1 Username: fl Amount: 24kr Product ID: 1
-Date: 11-01-2023 19:21:02 Purchase: ID: 1 Username: fl Amount: 24kr Product ID: 1
+Date: 12-01-2023 14:17:05 Purchase: ID: 0 Username: ndavo Total Amount: 24000kr Product ID: 11 Count: 20
+Cash insert: Date: 12-01-2023 14:17:37 Transaction: ID: 1 Username: ndavo Amount: 10kr
+Error: 12-01-2023 14:17:49: Exception has been thrown by the target of an invocation.
+Error: 12-01-2023 14:18:00: Exception has been thrown by the target of an invocation.
+Error: 12-01-2023 14:20:43: Exception has been thrown by the target of an invocation.
+Date: 12-01-2023 14:27:07 Purchase: ID: 0 Username: ndavo Total Amount: 1200kr Product ID: 11 Count: 1
+Date: 12-01-2023 14:28:43 Purchase: ID: 0 Username: ndavo Total Amount: 1200kr Product ID: 11 Count: 1
+Date: 12-01-2023 14:29:19 Purchase: ID: 0 Username: ndavo Total Amount: 1200kr Product ID: 11 Count: 1
+Date: 12-01-2023 14:29:49 Purchase: ID: 0 Username: ndavo Total Amount: 1200kr Product ID: 11 Count: 1
+Date: 12-01-2023 14:30:54 Purchase: ID: 0 Username: ndavo Total Amount: 1200kr Product ID: 11 Count: 1
+Date: 12-01-2023 14:31:05 Purchase: ID: 1 Username: ndavo Total Amount: 1200kr Product ID: 11 Count: 1
+Date: 12-01-2023 14:32:06 Purchase: ID: 0 Username: ndavo Total Amount: 1200kr Product ID: 11 Count: 1
+Date: 12-01-2023 14:32:12 Purchase: ID: 1 Username: ndavo Total Amount: 1200kr Product ID: 11 Count: 1
+Date: 12-01-2023 14:32:26 Purchase: ID: 2 Username: ndavo Total Amount: 1200kr Product ID: 11 Count: 1
+Date: 12-01-2023 14:34:25 Purchase: ID: 3 Username: ndavo Total Amount: 1200kr Product ID: 11 Count: 1
+Date: 12-01-2023 14:34:36 Purchase: ID: 4 Username: ndavo Total Amount: 1200kr Product ID: 11 Count: 1
+Date: 12-01-2023 14:35:33 Purchase: ID: 0 Username: ndavo Total Amount: 1200kr Product ID: 11 Count: 1
+Cash insert: Date: 12-01-2023 14:35:47 Transaction: ID: 1 Username: ndavo Amount: 1000000kr
+Date: 12-01-2023 14:36:56 Purchase: ID: 2 Username: ndavo Total Amount: 145200kr Product ID: 11 Count: 121
+Date: 12-01-2023 14:37:31 Purchase: ID: 0 Username: ndavo Total Amount: 26400kr Product ID: 11 Count: 22
+Date: 12-01-2023 14:37:41 Purchase: ID: 1 Username: ndavo Total Amount: 13200kr Product ID: 11 Count: 11
+Cash insert: Date: 12-01-2023 14:38:22 Transaction: ID: 2 Username: ndavo Amount: 270kr
+Date: 12-01-2023 14:38:30 Purchase: ID: 3 Username: ndavo Total Amount: 650kr Product ID: 14 Count: 1
